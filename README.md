@@ -1,8 +1,8 @@
-# Hi, my name is Mark!
+# Hi, I'm Mark!
 
 **`Digital Craftsman (Web Developer)`**
 
-Visit my <a target='_blank' href='https://markdugay.com/'>website.</a>
+Visit my <a target='_blank' href='https://markdugay.com/'>website</a>.
 
 I love video games, horror movies, indie music, and coding!
 
