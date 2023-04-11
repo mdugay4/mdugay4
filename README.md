@@ -11,7 +11,7 @@
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
-  <a href="https://markdugay.com/"><img src="https://custom-icon-badges.demolab.com/badge/-markdugay.com-EFCB80?style=for-the-badge&logo=mention&logoColor=black" alt="website" /></a>
+  <a href="https://markdugay.com/"><img src="https://custom-icon-badges.demolab.com/badge/-markdugay.com-82D2FD?style=for-the-badge&logo=mention&logoColor=black" alt="website" /></a>
 </p>
 
 <details open>
