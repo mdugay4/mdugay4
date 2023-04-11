@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monospace&size=60&pause=1000&color=F76D95&center=true&vCenter=true&repeat=false&width=450&height=60&lines=Mark+Dugay" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monospace&size=60&pause=1000&color=F05C7E&center=true&vCenter=true&repeat=false&width=450&height=60&lines=Mark+Dugay" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -19,10 +19,10 @@
   
   <p>
     <a href="https://github-readme-stats.vercel.app/api?username=mdugay4&theme=dracula&hide_border=true&include_all_commits=true&count_private=true">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-stats.vercel.app/api?username=mdugay4&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
+      <img alt="DenverCoder1's streak" src="https://github-readme-stats.vercel.app/api?username=mdugay4&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
     </a>
     <a href="https://github-readme-streak-stats.herokuapp.com/?user=mdugay4&theme=dracula&hide_border=true">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mdugay4&theme=dracula&hide_border=true"/>
+      <img alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mdugay4&theme=dracula&hide_border=true"/>
     </a>
   </p>
 </details>
