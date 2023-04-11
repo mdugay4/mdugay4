@@ -50,9 +50,9 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/mdugay4/music-app"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=mdugay4&repo=music-app&theme=ayu-mirage&bg_color=#202430&title_color=202430&hide_border=true&icon_color=202430&show_icons=false" alt="music-app"></a>
-    <a href="https://github.com/mdugay4/TCGTrackingTool"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=mdugay4&repo=TCGTrackingTool&theme=ayu-mirage&bg_color=#202430&title_color=202430&hide_border=true&icon_color=202430&show_icons=false" alt="TCGTrackingTool"></a>
-    <a href="https://github.com/mdugay4/delicious-recipes"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=mdugay4&repo=delicious-recipes&theme=ayu-mirage&bg_color=#202430&title_color=202430&hide_border=true&icon_color=202430&show_icons=false" alt="delicious-recipes"></a>
-    <a href="https://github.com/mdugay4/expense-tracker"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=mdugay4&repo=expense-tracker&theme=ayu-mirage&bg_color=#202430&title_color=202430&hide_border=true&icon_color=202430&show_icons=false" alt="expense-tracker"></a>
+    <a href="https://github.com/mdugay4/music-app"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=mdugay4&repo=music-app&theme=ayu-mirage&hide_border=true&show_icons=false" alt="music-app"></a>
+    <a href="https://github.com/mdugay4/TCGTrackingTool"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=mdugay4&repo=TCGTrackingTool&theme=ayu-mirage&hide_border=true&show_icons=false" alt="TCGTrackingTool"></a>
+    <a href="https://github.com/mdugay4/delicious-recipes"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=mdugay4&repo=delicious-recipes&theme=ayu-mirage&hide_border=true&show_icons=false" alt="delicious-recipes"></a>
+    <a href="https://github.com/mdugay4/expense-tracker"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=mdugay4&repo=expense-tracker&theme=ayu-mirage&hide_border=true&show_icons=false" alt="expense-tracker"></a>
   </p>
 </details>
