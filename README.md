@@ -1,29 +1,28 @@
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monospace&size=60&pause=1000&color=B2FEF7&center=true&vCenter=true&repeat=false&width=450&height=60&lines=Mark+Dugay" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monospace&size=60&pause=1000&color=F76D95&center=true&vCenter=true&repeat=false&width=450&height=60&lines=Mark+Dugay" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monospace&size=30&pause=1000&color=B2FEF7&center=true&vCenter=true&width=450&height=30&lines=Front-End+Web+Developer" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monospace&size=30&pause=1000&color=F76D95&center=true&vCenter=true&width=450&height=30&lines=Front-End+Web+Developer" alt="Typing SVG" /></a>
 </p>
 
-<br>
 <br>
 
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
-  <a href="https://markdugay.com/"><img src="https://custom-icon-badges.demolab.com/badge/-markdugay.com-B2FEF7?style=for-the-badge&logo=mention&logoColor=" alt="website" /></a>
+  <a href="https://markdugay.com/"><img src="https://custom-icon-badges.demolab.com/badge/-markdugay.com-F76D95?style=for-the-badge&logo=mention&logoColor=white" alt="website" /></a>
 </p>
 
 <details open>
   <summary><h2>GitHub Stats</h2></summary>
   
   <p>
-    <a href="https://github-readme-stats.vercel.app/api?username=mdugay4&theme=radical&hide_border=true&include_all_commits=true&count_private=true">
-      <img alt="DenverCoder1's streak" src="https://github-readme-stats.vercel.app/api?username=mdugay4&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+    <a href="https://github-readme-stats.vercel.app/api?username=mdugay4&theme=dracula&hide_border=true&include_all_commits=true&count_private=true">
+      <img alt="DenverCoder1's streak" src="https://github-readme-stats.vercel.app/api?username=mdugay4&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
     </a>
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=mdugay4&theme=radical&hide_border=true">
-      <img alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mdugay4&theme=radical&hide_border=true"/>
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=mdugay4&theme=dracula&hide_border=true">
+      <img alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mdugay4&theme=dracula&hide_border=true"/>
     </a>
   </p>
 </details>
