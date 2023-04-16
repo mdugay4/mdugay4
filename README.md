@@ -14,13 +14,10 @@
   <a href="https://markdugay.com/"><img src="https://custom-icon-badges.demolab.com/badge/-markdugay.com-82D2FD?style=for-the-badge&logo=mention&logoColor=black" alt="website" /></a>
 </p>
 
- [![GitHub Streak](https://streak-stats.demolab.com/?user=mdugay4)](https://git.io/streak-stats)
-
 <details open>
   <summary><h2>GitHub Stats</h2></summary>
   
   <p>
- 
     <a href="https://github-readme-stats.vercel.app/api?username=mdugay4&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true">
       <img alt="DenverCoder1's streak" src="https://github-readme-stats.vercel.app/api?username=mdugay4&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true"/>
     </a>
