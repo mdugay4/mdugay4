@@ -18,6 +18,7 @@
   <summary><h2>GitHub Stats</h2></summary>
   
   <p>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=mdugay4)](https://git.io/streak-stats)
     <a href="https://github-readme-stats.vercel.app/api?username=mdugay4&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true">
       <img alt="DenverCoder1's streak" src="https://github-readme-stats.vercel.app/api?username=mdugay4&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true"/>
     </a>
