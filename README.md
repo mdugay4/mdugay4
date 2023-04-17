@@ -11,25 +11,8 @@
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
-  <a href="https://markdugay.com/"><img src="https://custom-icon-badges.demolab.com/badge/-markdugay.com-82D2FD?style=for-the-badge&logo=mention&logoColor=black" alt="website" /></a>
+  <a target="_blank" href="https://markdugay.com/"><img src="https://custom-icon-badges.demolab.com/badge/-markdugay.com-82D2FD?style=for-the-badge&logo=mention&logoColor=black" alt="website" /></a>
 </p>
-
-<details open>
-  <summary><h2>GitHub Stats</h2></summary>
-  
-  <p>
-    <a href="https://github-readme-stats.vercel.app/api?username=mdugay4&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true">
-      <img alt="mdugay4's streak" src="https://github-readme-stats.vercel.app/api?username=mdugay4&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true"/>
-    </a>
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=mdugay4&theme=ayu-mirage&hide_border=true">
-      <img alt="mdugay4's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mdugay4&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true"/>
-    </a>
-  </p>
-</details>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
 
 <details open>
   <summary><h2>️Tech Stack</h2></summary>
@@ -56,3 +39,18 @@
     <a href="https://github.com/mdugay4/expense-tracker"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=mdugay4&repo=expense-tracker&theme=ayu-mirage&hide_border=true&show_icons=false" alt="expense-tracker"></a>
   </p>
 </details>
+
+<details open>
+  <summary><h2>GitHub Stats</h2></summary>
+  
+  <p>
+    <a href="https://github-readme-stats.vercel.app/api?username=mdugay4&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true">
+      <img alt="mdugay4's streak" src="https://github-readme-stats.vercel.app/api?username=mdugay4&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true"/>
+    </a>
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=mdugay4&theme=ayu-mirage&hide_border=true">
+      <img alt="mdugay4's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mdugay4&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true"/>
+    </a>
+  </p>
+</details>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
