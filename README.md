@@ -1,16 +1,16 @@
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monospace&size=60&pause=1000&color=EFCB80&center=true&vCenter=true&repeat=false&width=450&height=60&lines=Mark+Dugay" alt="Typing SVG" /></a>
-</p>
+<!-- </p> -->
 
-<p align="center">
+<!-- <p align="center"> -->
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monospace&size=30&pause=1000&color=82D2FD&center=true&vCenter=true&width=450&height=30&lines=Software+Developer" alt="Typing SVG" /></a>
-</p>
+<!-- </p> -->
 
-<br>
+<!-- <br> -->
 
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<p align="center">
+<!-- <p align="center"> -->
   <a target="_blank" href="https://markdugay.com/"><img src="https://custom-icon-badges.demolab.com/badge/-markdugay.com-82D2FD?style=for-the-badge&logo=mention&logoColor=black" alt="website" /></a>
 </p>
 
