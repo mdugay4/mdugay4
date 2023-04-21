@@ -23,7 +23,7 @@
 </details>
 
 <details open>
-  <summary><h2>My Top Open Source Projects</h2></summary>
+  <summary><h2>My Top Projects</h2></summary>
   <p align="left">
     <a href="https://github.com/mdugay4/music-app"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=mdugay4&repo=music-app&theme=ayu-mirage&hide_border=true&show_icons=false" alt="music-app"></a>
     <a href="https://github.com/mdugay4/TCGTrackingTool"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=mdugay4&repo=TCGTrackingTool&theme=ayu-mirage&hide_border=true&show_icons=false" alt="TCGTrackingTool"></a>
