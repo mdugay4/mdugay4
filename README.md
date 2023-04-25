@@ -37,10 +37,10 @@
   <summary><h2>GitHub Stats</h2></summary>
   <p>
     <a href="https://github-readme-stats.vercel.app/api?username=mdugay4&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true">
-      <img alt="mdugay4's streak" src="https://github-readme-stats.vercel.app/api?username=mdugay4&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true"/>
+      <img alt="mdugay4's stats" src="https://github-readme-stats.vercel.app/api?username=mdugay4&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true"/>
     </a>
     <a href="https://github-readme-streak-stats.herokuapp.com/?user=mdugay4&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true">
-      <img alt="mdugay4's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mdugay4&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true"/>
+      <img alt="mdugay4's stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mdugay4&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true"/>
     </a>
   </p>
 </details>
