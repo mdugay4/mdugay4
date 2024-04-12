@@ -26,10 +26,9 @@
 <details open>
   <summary><h2>Top Projects</h2></summary>
   <p align="left">
-    <a href="https://github.com/mdugay4/music-app"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=mdugay4&repo=music-app&theme=ayu-mirage&hide_border=true&show_icons=false" alt="music-app"></a>
+    <a href="https://github.com/mdugay4/ai-agent"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=mdugay4&repo=ai-agent&theme=ayu-mirage&hide_border=true&show_icons=false" alt="ai-agent"></a>
+    <a href="https://github.com/mdugay4/portfolio"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=mdugay4&repo=portfolio&theme=ayu-mirage&hide_border=true&show_icons=false" alt="portfolio"></a>
     <a href="https://github.com/mdugay4/TCGTrackingTool"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=mdugay4&repo=TCGTrackingTool&theme=ayu-mirage&hide_border=true&show_icons=false" alt="TCGTrackingTool"></a>
-    <a href="https://github.com/mdugay4/delicious-recipes"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=mdugay4&repo=recipe-book&theme=ayu-mirage&hide_border=true&show_icons=false" alt="delicious-recipes"></a>
-    <a href="https://github.com/mdugay4/expense-tracker"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=mdugay4&repo=expense-tracker&theme=ayu-mirage&hide_border=true&show_icons=false" alt="expense-tracker"></a>
   </p>
 </details>
 
